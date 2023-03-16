@@ -1,16 +1,16 @@
 ### Hello there 👋
 
 <img align="right" height="590em" src=""/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Neves</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 I’m currently learning JavaScript/HTML/CSS
 
 - 🔭 I'm aiming to become a developer
 
-- 💬 How to reach me: neves.mecanica@gmail.com or @f_neves (instagram)
+- 💬 How to reach me: neves.mecanica@gmail.com or click the links below
 
-- ⚡ Fun fact: I'm a Mechatronics Engineering, and I've worked in a fertilizer company in HR and later in the Communication department.
+- ⚡ Fun fact: I'm a Mechatronics Engineering, and I've worked in a fertilizer company in HR and later in the Communication department. Now I'm studying to become a dev. 
 
 
 
