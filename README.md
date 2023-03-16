@@ -2,7 +2,7 @@
 
 <img align="right" height="590em" src=""/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Neves</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-neves&color=yellow" alt="Profile views" /> </p> -->
 
 - 🔥 I’m currently learning JavaScript/HTML/CSS
 
@@ -10,7 +10,7 @@
 
 - 💬 How to reach me: neves.mecanica@gmail.com or click the links below
 
-- ⚡ Fun fact: I'm a Mechatronics Engineering, and I've worked in a fertilizer company in HR and later in the Communication department. Now I'm studying to become a dev. 
+- ⚡ Fun fact: I'm a Mechatronics Engineering, and I've worked in a fertilizer company in HR and later in the Communication department.
 
 
 
