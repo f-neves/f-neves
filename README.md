@@ -43,9 +43,6 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://instagram.com/f_neves" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-</a>
 <a href="mailto: neves.mecanica@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>  
 </a>
@@ -54,6 +51,9 @@
 </a>
 <a href="https://discord/users/FelipeNeves#8298" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+</a>
+<a href="https://instagram.com/f_neves" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 </p>
 
