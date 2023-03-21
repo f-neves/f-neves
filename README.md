@@ -49,7 +49,7 @@
 <a href="mailto: neves.mecanica@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>  
 </a>
-<a href="https://linkedin.com/in/felipe-neves-b6a0233a/" target="_blank">
+<a href="https://www.linkedin.com/in/felipe-neves-b6a0233a" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://discord/users/FelipeNeves#8298" target="_blank">
