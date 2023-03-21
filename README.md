@@ -49,12 +49,13 @@
 <a href="https://www.linkedin.com/in/felipe-neves-b6a0233a" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://discord/users/FelipeNeves#8298" target="_blank">
+<a href="https://discord.com/channels/@me/334482634426155008" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
 </a>
 <a href="https://instagram.com/f_neves" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
+  
 </p>
 
 <!--
