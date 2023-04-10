@@ -4,9 +4,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Neves</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-neves&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 I’m currently learning JavaScript/HTML/CSS
+- 🔥 I’m currently learning JavaScript/HTML/CSS and I want to improve my Python and C++.
 
-- 🔭 I'm aiming to become a developer
+- 🔭 I'm aiming to become a dev.
 
 - 💬 How to reach me: neves.mecanica@gmail.com or click the links below
 
