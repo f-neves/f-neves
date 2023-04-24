@@ -1,6 +1,5 @@
 ### Hello there 👋
 
-<img align="right" height="590em" src=""/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Neves</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-neves&color=yellow" alt="Profile views" /> </p> -->
 
