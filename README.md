@@ -9,7 +9,7 @@
 
 - 💬 How to reach me: neves.mecanica@gmail.com or click the links below
 
-- ⚡ Fun fact: I'm a Mechatronics Engineering. I've worked in a fertilizer company in HR and later in the Communication department. Now I want to work as a front-end developer
+- ⚡ Fun fact: I'm a Mechatronic Engineering. I've worked in a fertilizer company in HR and later in the Communication department. At an IT company in Costumer Success area. Now I want to work as a front-end developer.
 
 
 
@@ -45,7 +45,7 @@
 <a href="mailto: neves.mecanica@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>  
 </a>
-<a href="https://www.linkedin.com/in/felipe-neves-b6a0233a" target="_blank">
+<a href="https://www.linkedin.com/in/f-a-neves" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://discord.com/channels/@me/334482634426155008" target="_blank">
