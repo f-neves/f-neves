@@ -3,13 +3,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Neves</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-neves&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 I’m currently learning JavaScript/HTML/CSS and I want to improve my Python and C++.
+- 🔥 I’m currently learning JavaScript/HTML/CSS, and I want to improve my skills in Python and C++.
 
-- 🔭 I'm aiming to become a dev.
+- 🔭 I'm aiming to become a web developer.
 
 - 💬 How to reach me: neves.mecanica@gmail.com or click the links below
 
-- ⚡ Fun fact: I'm a Mechatronic Engineering. I've worked in a fertilizer company in HR and later in the Communication department. Also at an IT company, in Costumer Success area. Now I want to work as a front-end developer.
+- ⚡ Fun fact: I'm a Mechatronic Engineer. I've worked in a fertilizer company in HR and later in the Communication department. Also at an IT company, in Customer Success area. Now I want to work as a full-satck developer.
 
 
 
