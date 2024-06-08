@@ -9,7 +9,7 @@
 
 - 💬 How to reach me: neves.mecanica@gmail.com or click the links below
 
-- ⚡ Fun fact: I'm a Mechatronic Engineer. I've worked in a fertilizer company in HR and later in the Communication department. Also at an IT company, in Customer Success area. Now I want to work as a full-satck developer.
+- ⚡ Fun fact: I'm a Mechatronic Engineer. I've worked in a fertilizer company in HR and later in the Communication department. Also at an IT company, in Customer Success area. Now I want to work as a full-stack developer.
 
 
 
