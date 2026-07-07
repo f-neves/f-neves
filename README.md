@@ -35,11 +35,6 @@ I build full stack web and AI-powered applications with React, Node.js and TypeS
 
 <br>
 
-## 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=f-neves&show_icons=true&hide_border=true&count_private=true" alt="Felipe's GitHub stats" />
-
-<br>
 
 ## Contact
 
