@@ -1,62 +1,53 @@
-### Hello there 👋
+<h1 align="left">Hi, I'm Felipe Neves 👋</h1>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Neves</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-neves&color=yellow" alt="Profile views" /> </p> -->
+### Full Stack Software Engineer · React · Node.js · TypeScript · AI
 
-- 🔥 I’m currently learning JavaScript/HTML/CSS, and I want to improve my skills in Python and C++.
+I build full stack web and AI-powered applications with React, Node.js and TypeScript. I most recently rebuilt a company's internal operations platform used every day across the business, shipping validation and error-detection logic that cut operational errors by 60%+.
 
-- 🔭 I'm aiming to become a web developer.
+- 🤖 Currently shipping AI products with Anthropic's Claude and RAG (a customer-support assistant and an email autoresponder with human-in-the-loop review).
+- 🧭 Background in Control & Automation Engineering plus years leading people and processes, so I look for the simplest solution to the real problem.
+- 🌎 Open to remote and international opportunities.
+- 📫 Reach me: neves.mecanica@gmail.com
 
-- 💬 How to reach me: neves.mecanica@gmail.com or click the links below
+<br>
 
-- ⚡ Fun fact: I'm a Mechatronic Engineer. I've worked in a fertilizer company in HR and later in the Communication department. Also at an IT company, in Customer Success area. Now I want to work as a full-stack developer.
-
-
-
-<!--
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
+## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-<br><br>
+<br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## 🚀 Featured Projects
 
--->
+- **[AI Customer Support Assistant (RAG)](https://github.com/f-neves/ai-support-assistant)** · RAG assistant built with Python/FastAPI and Anthropic Claude (streaming over SSE) on a sqlite-vec vector store, with an embeddable React chat widget, an admin panel with a CSAT/resolution dashboard, and confidence-based human handoff.
+- **[AI Email Support Autoresponder](https://github.com/f-neves/ai-email-support)** · Gmail-synced support autoresponder using Claude Haiku (structured classification) and Claude Sonnet (reply drafting) with human-in-the-loop review. Node.js/Fastify + Prisma + React, with prompt caching for ~10x lower cost on cached tokens.
 
-<br><br>
+<br>
+
+## 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=f-neves&show_icons=true&hide_border=true&count_private=true" alt="Felipe's GitHub stats" />
+
+<br>
 
 ## Contact
 
-<p align="left" style="background:yellow">
-<a href="mailto: neves.mecanica@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>  
+<p align="left">
+<a href="mailto:neves.mecanica@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/f-a-neves" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://discord.gg/nQcRQyJ3" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
-</a>
-<a href="https://instagram.com/f_neves" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-</a>
-  
 </p>
-
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
