@@ -1,4 +1,4 @@
-\<h1 align="left">Hi, I'm Felipe Neves 👋\</h1>
+<h1 align="left">Hi, I'm Felipe Neves 👋</h1>
 
 ### Full Stack Software Engineer · React · TypeScript · Node.js · Python · AI
 
@@ -16,7 +16,7 @@ At Locavibe, I was the sole engineer responsible for rebuilding an internal oper
 - 🌎 Open to remote and international opportunities.
 - 📫 Reach me: [neves.mecanica@gmail.com](mailto:neves.mecanica@gmail.com)
 
-\<br>
+<br>
 
 ## 🛠 Tech Stack
 
@@ -46,7 +46,7 @@ At Locavibe, I was the sole engineer responsible for rebuilding an internal oper
 ![Anthropic](https://img.shields.io/badge/-Anthropic%20Claude-05122A?style=flat&logo=anthropic)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-\<br>
+<br>
 
 ## 🚀 Featured Projects
 
@@ -54,7 +54,7 @@ At Locavibe, I was the sole engineer responsible for rebuilding an internal oper
 
 - **[AI Email Support Autoresponder](https://github.com/f-neves/ai-email-support)** · An AI-assisted email support workflow combining automated classification with human-reviewed response generation. Uses Claude Haiku for structured classification and Claude Sonnet for reply drafting, with Gmail synchronization, Node.js, Fastify, Prisma, React, and prompt caching to reduce costs on repeated context.
 
-\<br>
+<br>
 
 ## 🎓 Background
 
@@ -62,15 +62,15 @@ Bachelor's degree in Mechatronics Engineering, with postgraduate qualifications 
 
 My background in engineering, operations, and process management influences how I approach software: understand the system, identify what is actually failing, and build solutions that remain useful beyond the initial implementation.
 
-\<br>
+<br>
 
 ## Contact
 
-\<p align="left">
-\<a href="mailto:neves.mecanica@gmail.com" target="_blank">
+<p align="left">
+<a href="mailto:neves.mecanica@gmail.com" target="_blank">
   \<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-\</a>
-\<a href="https://www.linkedin.com/in/f-a-neves" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/f-a-neves" target="_blank">
   \<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-\</a>
-\</p>
+</a>
+</p>
