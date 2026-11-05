@@ -68,9 +68,9 @@ My background in engineering, operations, and process management influences how 
 
 <p align="left">
 <a href="mailto:neves.mecanica@gmail.com" target="_blank">
-  \<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/f-a-neves" target="_blank">
-  \<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 </p>
